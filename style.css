@@ -1,0 +1,28 @@
+body {
+  background-color: #F0F0F0;
+}
+
+h3 {
+  color: #A4A400;
+  font-family: serif;
+  font-size: 18pt;
+  text-decoration: underline;
+  background-color: lightgrey;
+}
+
+a {
+  color: #A4A400;
+}
+
+q {
+  font-style: italic;
+  background-color: #FFFFA8;
+}
+
+footer {
+  font-family: monospace;
+}
+
+img {
+  width: 200px;
+}
